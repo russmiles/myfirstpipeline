@@ -1,0 +1,20 @@
+
+= myfirstpipeline pipeline
+
+Originally created on {{creation_date}}.
+
+Based on the [Spring Cloud Pipelines project](http://cloud.spring.io/spring-cloud-pipelines/).
+
+My new pipeline
+
+== Evolve your myfirstpipeline Pipeline
+
+The following Atomist editors are available for this project:
+
+ * Change the configuration of your pipeline?
+ * Change the credentials for your pipeline?
+ * Add a service to your pipeline?
+ * Switch your pipeline to using Concourse?
+
+---
+Created by Atomist. Need Help? <a href="https://join.atomist.com/">Join our Slack team</a>
